@@ -1,0 +1,3 @@
+Rouncube plugin to add a remember_me checkbox in login.
+
+When remember me is checked, it stores user, password and host encrypted in a cookie, and it will be used to login in a future time, even if you close the browser.
